@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Python | Some notes]]></title>
   <link href="http://matejuh.github.io/blog/blog/categories/python/atom.xml" rel="self"/>
   <link href="http://matejuh.github.io/blog/"/>
-  <updated>2015-01-17T00:09:28+01:00</updated>
+  <updated>2015-01-17T00:14:27+01:00</updated>
   <id>http://matejuh.github.io/blog/</id>
   <author>
     <name><![CDATA[Matej]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Django CMS]]></title>
-    <link href="http://matejuh.github.io/blog/blog/2015/01/16/django-cms/"/>
+    <title type="html"><![CDATA[Wagtail]]></title>
+    <link href="http://matejuh.github.io/blog/blog/2015/01/16/wagtail/"/>
     <updated>2015-01-16T23:58:55+01:00</updated>
-    <id>http://matejuh.github.io/blog/blog/2015/01/16/django-cms</id>
+    <id>http://matejuh.github.io/blog/blog/2015/01/16/wagtail</id>
     <content type="html"><![CDATA[<p>I wanted to learn some simple language to be able create quickly web sites. I don&rsquo;t like PHP, so I decided to learn Python.</p>
 
 <p>Last couple of days I was playing with Django. I wanted to create web site with user pages and some blog posts visible only to logged users.</p>
